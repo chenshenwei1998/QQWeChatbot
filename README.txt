@@ -1,5 +1,7 @@
 QQ群微信群消息转发机器人
-本程序基于Mojo-WebQQ和Mojo-Weixin提供的API运行
+（！！！webQQ将于2019.1.1关闭，本程序的QQ部分将无法正常运行，如果有新的接口我将继续维护！！！）
+
+本程序基于Mojo-WebQQ和Mojo-Weixin提供的API运行，感谢Mojo-WebQQ和Mojo-Weixin作者的贡献
 环境为Ubuntu16.04和Python3.5（其他环境亦可运行）
 
 实现功能：
